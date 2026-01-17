@@ -1,5 +1,5 @@
-# RecuperadorZIP
-Software capaz de recuperar Arquivos .ZIP Bloqueados por senha
+# ZipCracker Python
+Brute Force Tool for Educational Purposes
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=135&section=header&reversal=false&text=Project%20of%20Security&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=ffffffffffff&strokeWidth=90&descSize=30&descAlign=50&descAlignY=77&textBg=false&color=gradient"  />
@@ -7,7 +7,7 @@ Software capaz de recuperar Arquivos .ZIP Bloqueados por senha
 
 ###
 
-<h1 align="center">Hi!.</h1>
+<h1 align="center">Este script Python implementa um recuperador de senhas para arquivos ZIP criptografados com AES, utilizando força bruta. Ele é baseado em uma interface gráfica (GUI) com Tkinter e aproveita multiprocessamento para acelerar o processo..</h1>
 
 ###
 
